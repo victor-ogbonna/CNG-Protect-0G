@@ -32,7 +32,7 @@
 #endif
 
 // --------------------- FIREBASE CREDENTIALS ---------------------
-#define API_KEY         "AIzaSyDVK5F-wcrpVTqCcFdb1hiDSq5xnY4szQY"
+#define API_KEY         "XXXX"
 #define DATABASE_URL    "https://cng-protect-default-rtdb.firebaseio.com/" 
 #define USER_EMAIL      "victorogbonna313@gmail.com"
 #define USER_PASSWORD   "CNG1234."
